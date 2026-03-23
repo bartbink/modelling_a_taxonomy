@@ -1,6 +1,6 @@
 # The Orthogonal Taxonomy Guide: A Rulebook for Semantic Modeling
 
-## 1. Core Philosophyyy
+## 1. Core Philosophy
 This guide establishes a "Pure," **Faceted Classification** system. Instead of rigid single-inheritance trees which often force arbitrary choices (e.g., *"Is a pile of rocks primarily a physical object or a collection?"*), this approach models reality as a coordinate system.
 
 **The Golden Rules:**
